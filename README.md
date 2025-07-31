@@ -3,7 +3,7 @@
 
 # Mapping Jazz Diasporas
 
-#### Team: [John Lauermann](https://www.pratt.edu/people/john-lauermann/), [Cisco Bradley] (https://www.pratt.edu/people/francis-bradley/)
+#### Team: [John Lauermann](https://www.pratt.edu/people/john-lauermann/), [Cisco Bradley](https://www.pratt.edu/people/francis-bradley/)
 
 This document describes work supporting Dr. Cisco Bradley's _Global Jazz Diasporas_ research initiative, a collaboration with the [Music and Migration Lab](https://www.musicandmigration.com/) and the [Spatial Analysis & Visualization Initiative](https://www.pratt.edu/research/research-at-pratt/provosts-centers/spatial-analysis-visualization-initiative/) at Pratt Institute. The project documents the life travels of over 1500 musicians who played a significant role in building Jazz and Black Creative Music. The map visualizes the migration patterns from over 7500 migration movements, information based on over 500 oral histories and archival research. 
 
