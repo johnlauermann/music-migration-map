@@ -9,7 +9,7 @@ This document describes work supporting Dr. Cisco Bradley's _Global Jazz Diaspor
 
 
 ## Related products
-Bradley, F. & Lauermann, J. _Global Jazz Diasporas Data Dashboard_ (last updated 2025) https://prattsavi.maps.arcgis.com/apps/dashboards/ce4f9dbb59184ddaac73b36469c131f9
+Bradley, F. & Lauermann, J. _Global Jazz Diasporas Data Dashboard_ (last updated May 2025) https://prattsavi.maps.arcgis.com/apps/dashboards/ce4f9dbb59184ddaac73b36469c131f9
 
 
 ## How to replicate
