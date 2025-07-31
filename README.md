@@ -1,4 +1,6 @@
 <img width="2500" height="978" alt="music_migration_lab_header" src="https://github.com/user-attachments/assets/6e993bbb-cc74-4081-947c-6c4de8c7f83f" />
+
+
 # Mapping Jazz Diasporas
 
 #### Team: [John Lauermann](https://www.pratt.edu/people/john-lauermann/), [Cisco Bradley] (https://www.pratt.edu/people/francis-bradley/)
